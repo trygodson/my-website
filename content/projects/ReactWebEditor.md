@@ -1,6 +1,6 @@
 ---
 date: '2020-03-27'
-title: 'Web Editor Built'
+title: 'Web Code Editor'
 github: 'https://github.com/trygodson/react-code-editor-app'
 external: 'https://react-web-editor.herokuapp.com/'
 tech:
@@ -12,4 +12,4 @@ company: 'Personal'
 showInProjects: true
 ---
 
-Build a custom App that Compiles and execute React Code in the web browser. import directly from NPM. NB: Not all packages 
+A custom Web App that Compiles and execute React Code in the web browser. import packages directly from NPM. NB: Not all types of packages 
