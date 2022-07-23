@@ -107,7 +107,7 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <div style={{display: 'flex', justifyContent: 'space-around', alignItems: 'flex-end'}} >
           <a href="#" style={{fontSize: '14px',}}> Web Dev by TryGodson</a>
-          <a href="https://brittanychiang.com/" style={{fontSize: '10px', textDecorationLine: 'underline'}}> Ref by BrittanyChiang</a>
+          <a href="https://github.com/bchiang7" style={{fontSize: '10px', textDecorationLine: 'underline'}}> Ref by BrittanyChiang</a>
 
           {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
