@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         I’m a front-end engineer who specializes on building web and mobile exceptional
-        digital experiences (occasionally develope the Backend & an enthusiast about blockchain)
+        digital experiences & a blockchain enthusiast
         
       </p>
     </>
