@@ -105,8 +105,9 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="#">
-          <div> Web Dev by TryGodson</div>
+        <div style={{display: 'flex', justifyContent: 'space-around', alignItems: 'flex-end'}} >
+          <a href="#" style={{fontSize: '14px',}}> Web Dev by TryGodson</a>
+          <a href="https://brittanychiang.com/" style={{fontSize: '10px', textDecorationLine: 'underline'}}> Ref by BrittanyChiang</a>
 
           {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
@@ -120,7 +121,7 @@ const Footer = () => {
               </span>
             </div>
           )} */}
-        </a>
+        </div>
       </StyledCredit>
     </StyledFooter>
   );
