@@ -2,8 +2,8 @@
 date: '3'
 title: 'Build a Crypto Wallet App'
 cover: './screens.png'
-external: 'https://github.com/trygodson/c-wallet'
-github: 'https://github.com/trygodson/c-wallet'
+external: 'https://github.com/trygodson/c_wallet'
+github: 'https://github.com/trygodson/c_wallet'
 tech:
   - Flutter
   - Firebase
