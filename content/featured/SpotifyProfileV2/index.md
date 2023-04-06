@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'Build a Crypto Wallet App'
-cover: './screens.png'
-external: 'https://github.com/trygodson/c_wallet'
+title: 'Lhz Liquor'
+cover: './demo.png'
+external: 'https://github.com/trygodson/lhzliquor'
 github: 'https://github.com/trygodson/c_wallet'
 tech:
-  - Flutter
-  - Firebase
-  - Web3
-  - Getx
+  - React Native
+  - Redux
+  - Wordpress
+  - Woocommerce
 ---
 
 Building a flutter wallet was kind of intriging, because of less resources and materials

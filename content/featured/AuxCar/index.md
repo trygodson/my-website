@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Aux Car'
-cover: './demo.png'
-github: 'https://github.com/trygodson/mexcem'
-external: 'https://mexcem.herokuapp.com/'
+title: 'Hallyupyo'
+cover: './ddemo.png'
+github: '#'
+external: 'https://play.google.com/store/apps/details?id=com.hallyupyo'
 tech:
-  - React
+  - React Native
   - Styled Components
-  - Scss
-  - React Query
-  - Heroku
+  - Redux Saga
+  - Redux
+  - .Net
 ---
 
-A web app for visualizing analytical data from Auxcar API. The Panel is categeorized into three different user types Customer, Admin and Driver. Panel displays differently based on this user types
+HallyuPyo is your ultimate info hub on all K-Pop events and artists!
+Direct ticketing links to all your favourite Hallyu events and stay updated on all the latest K-Pop announcements in our News section!

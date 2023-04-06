@@ -1,15 +1,15 @@
 ---
-date: '1'
-title: 'Dweller Web'
-cover: './dweller.png'
+date: '3'
+title: 'Dweller Home'
+cover: './dwella.png'
 github: 'https://github.com/trygodson/dweller'
-external: 'https://dwellerhome.herokuapp.com/'
+external: 'https://manager.dweller.africa'
 tech:
   - React
   - Tailwind Css
   - Styled Component
   - Express
-  - Heroku
+  - .Net
 ---
 
-Dweller Web, A Web Panel for Estate and Property owners and also Estate and property customers for easy and accessible data management.
+Dweller Manager, A Web Panel for Estate and Property Managers and also SubStaffs for easy and accessible management of occupants. Send Instant Notification to Occupant on Mobile App, Onboard Occupant easily by excel document, Set Payment Plan for Occupant
