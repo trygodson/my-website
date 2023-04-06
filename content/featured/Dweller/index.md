@@ -12,4 +12,4 @@ tech:
   - .Net
 ---
 
-Dweller Manager, A Web Panel for Estate and Property Managers and also SubStaffs for easy and accessible management of occupants. Send Instant Notification to Occupant on Mobile App, Onboard Occupant easily by excel document, Set Payment Plan for Occupant
+Dweller Manager, A Web App for Estate and Property Owners for easy and accessible management of occupants and substaffs. Send Instant Notification to Occupant Mobile App, Onboard Occupant easily by excel document, Set Payment Plan for Occupant
