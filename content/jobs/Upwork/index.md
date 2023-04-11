@@ -1,7 +1,7 @@
 ---
 date: '2021-01-01'
 title: 'Front-End Developer'
-company: 'Upwork Freelancer'
+company: 'Upwork'
 location: 'Remote'
 range: 'January - Present'
 url: 'https://www.upwork.com/o/profiles/users/~0185ea0a4f53d2ae79/'

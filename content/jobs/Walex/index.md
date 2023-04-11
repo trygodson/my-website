@@ -1,7 +1,7 @@
 ---
 date: '2021-11-07'
 title: 'Front-End Engineer'
-company: 'WalexBiz Nigeria'
+company: 'WalexBiz'
 location: 'Abuja Nigeria'
 range: 'Nov - Dec 2021'
 url: '#'
