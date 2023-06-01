@@ -1,6 +1,6 @@
 ---
 date: '2017-11-01'
-title: 'Pocket Dashboard'
+title: 'Criset Wallet'
 github: 'https://github.com/trygodson/c_wallet'
 external: '#'
 tech:
