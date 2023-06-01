@@ -1,13 +1,14 @@
 ---
 date: '2017-12-01'
-title: 'Fresha Next Generation Food'
+title: 'Future Leader'
 github: ''
-external: 'https://fresha-2.herokuapp.com/'
+external: 'https://play.google.com/store/apps/details?id=com.futureleaders.enterprise'
 tech:
-  - React
-  - JS
-  - SCSS
+  - React Native
+  - Redux
+  - Android
+  - IOS
 showInProjects: true
 ---
 
-A small App for A Food Item Supplier, App comprises of a Landing page for lead collection and also Admin Dashboard for data collection.
+An interactive platform for first time graduates, or graduates in the early stages of their career, who wish to maximise their personal development in order to help them secure new job opportunities, or achieve further success within their current role. The platform also enables employers to advertise graduate-oriented roles
