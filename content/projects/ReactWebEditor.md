@@ -12,4 +12,4 @@ company: 'Personal'
 showInProjects: true
 ---
 
-A Progressive Web App  
+Vote and Fun, A Progressive Web App to create free or paid elections, competitions as a business on the platform, get instant results and reviews
