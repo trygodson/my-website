@@ -2,7 +2,7 @@
 date: '3'
 title: 'Dweller Home'
 cover: './dwella.png'
-github: 'https://github.com/trygodson/dweller'
+github: 'https://play.google.com/store/apps/details?id=com.dweller'
 external: 'https://manager.dweller.africa'
 tech:
   - React
