@@ -8,7 +8,7 @@ tech:
   - WorkBox
   - Redux
   - PWA
-company: 'Personal'
+company: 'Smitiv Mobile PTE'
 showInProjects: true
 ---
 

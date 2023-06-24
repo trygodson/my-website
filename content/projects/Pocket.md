@@ -8,7 +8,7 @@ tech:
   - Firebase
   - Getx
   - Web3
-# company: 'Personal'
+company: 'Criset Multi'
 showInProjects: true
 ---
 

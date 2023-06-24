@@ -8,6 +8,7 @@ tech:
   - Redux
   - Android
   - IOS
+company: 'Smitiv Mobile PTE'
 showInProjects: true
 ---
 
