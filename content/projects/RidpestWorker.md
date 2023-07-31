@@ -1,13 +1,12 @@
 ---
 date: '2023-07-01'
-title: 'Skyway Motor'
+title: 'Ridpest Worker'
 github: '#'
-external: 'https://play.google.com/store/apps/details?id=com.skywaymotorsg'
+external: 'https://play.google.com/store/apps/details?id=com.ridpestworker'
 tech:
   - React Native
   - Android
   - iOS
-  - VR Camera
 company: 'Smitiv Mobile PTE'
 showInProjects: true
 ---
