@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Full Stack engineer who specializes on building web and mobile exceptional
-        digital Applications
+        I’m a Full Stack Engineer who specializes on building web and mobile exceptional
+        digital Applications 
       </p>
     </>
   );
