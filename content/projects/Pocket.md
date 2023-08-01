@@ -12,4 +12,4 @@ company: 'Smitiv Mobile PTE'
 showInProjects: true
 ---
 
-<!-- A flutter wallet app, Still in development but successfully it can send and receive Ethereum(ETH) and also ERC20 contract tokens. Sign up with google, automatically generate twelve 12 word phrase and get Privavte and Public Keys for Transactions. -->
+Schedule Delivery, Register & Rent Vehicles, with Integrated AR Scan for automatic Volume Calculations
