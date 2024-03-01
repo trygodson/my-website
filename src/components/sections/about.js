@@ -156,8 +156,8 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="https://uploads-ssl.webflow.com/5fe9eb60d5883622a90d600a/601d8672ba0ac23f556ea152_my%20pic.jpg"
-              // src="../../images/me.jpg"
+              // src="https://uploads-ssl.webflow.com/5fe9eb60d5883622a90d600a/601d8672ba0ac23f556ea152_my%20pic.jpg"
+              src="../../images/my.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
