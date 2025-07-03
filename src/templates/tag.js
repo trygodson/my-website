@@ -8,11 +8,9 @@ import { Layout } from '@components';
 
 const StyledTagsContainer = styled.main`
   max-width: 1000px;
-
   a {
     ${({ theme }) => theme.mixins.inlineLink};
   }
-
   h1 {
     ${({ theme }) => theme.mixins.flexBetween};
     margin-bottom: 50px;
