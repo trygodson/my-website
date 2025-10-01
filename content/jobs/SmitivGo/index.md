@@ -3,7 +3,7 @@ date: '2022-09-11'
 title: 'React Native Developer'
 company: 'Smitiv Go PTE'
 location: 'Singapore'
-range: 'Dec 2022 - Present'
+range: 'Dec 2022 - Jan 2025'
 url: 'https://smitiv.co'
 ---
 
